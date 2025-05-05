@@ -21,12 +21,10 @@ Reading Tracker is a web application built with the Laravel framework. It helps 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/reading-tracker.git
+   git clone https://github.com/timpers/reading-tracker.git
    cd reading-tracker
    ```
-   Collecting workspace informationHere’s a draft for a README tailored to your Laravel project:
 
-```markdown
 # Reading Tracker
 
 Reading Tracker is a web application built with the Laravel framework. It helps users track their reading habits, manage book lists, and set reading goals.
@@ -103,4 +101,3 @@ Contributions are welcome! Please follow the [Laravel contribution guide](https:
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-```
